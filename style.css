@@ -86,3 +86,12 @@ li.reason {
     box-shadow: none;
     text-decoration: none;
 }
+.Table {
+    text-align: center;
+}
+#Row1 {
+    text-align: center;
+}
+#Row2 {
+    text-align: center;
+}
